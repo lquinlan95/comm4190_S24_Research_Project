@@ -13,6 +13,13 @@ To accomplish this, I will utilize both academic research, as well as conducting
 3. Run through each communication scenario with ChatGPT and record each conversation trasncript
 4. Use transcript to inform paper content
 
+## Links
+1. [Paper](01.Paper.pdf)
+2. [LLM testing scenarios](02.Research.pdf)
+3. [Annotated Bibliography](03.AnnotatedBibliography.pdf)
+
+
+
 
 
 
